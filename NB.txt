@@ -1,0 +1,5 @@
+- Website coded on the basis of a theme 
+- The responsive version it is available but needs some flow set up
+
+* Recoded by Anasse NAJI
+* Credits to Github
